@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    height: 5vh;
+    width: 100vw;
+    background: #292929;
+    box-shadow: 0 0 10px #000
+}
+
+.header-list {
+    color: #fff;
+    margin-left: 10vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.header-list:hover {
+    text-shadow: 0 0 5px #fff;
+    cursor: pointer
+}

@@ -1,0 +1,91 @@
+:root {
+    --pm-color: #a100a1;
+    --default-font: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.main-container-registered {
+    display: flex;
+    overflow-y: scroll;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 90vh;
+}
+
+h1 {
+    overflow:visible
+}
+
+.table-cars-head {
+    font-size: 1.4rem;
+}
+
+tr > * {
+    padding: 0px 15px 0px 15px;
+}
+
+td {
+    height: 45px;
+    border-bottom: solid rgb(165, 165, 165) 1px;
+    text-align: center;
+    font-weight:700;
+}
+
+.main-container-registered::-webkit-scrollbar {
+    display: none;
+  }
+  
+
+  .main-container-registered {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+    width: 30px;
+    border: 0px;
+    height: 30px;
+    margin-left: 3px;
+    border-radius: 15px;
+    box-shadow: 0 0 3px black;
+    color: rgb(31, 31, 31);
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.btn:active {
+    transform: scale(0.8)
+}
+
+.btn-update {
+    background-color: var(--pm-color)
+}
+
+.btn-delete {
+    background-color: #ff4848
+}
+
+.btn-update:hover {
+    background-color: #720072;
+}
+
+.btn-delete:hover {
+    background-color: #ad1919;
+}

@@ -1,0 +1,37 @@
+.footer {
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    height: 5vh;
+    width: 100vw;
+    background: #292929;
+}
+
+.footer-list {
+    color: rgb(148, 148, 148);
+    margin-left: 2vw;
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fa {
+    font-size: 1.5rem;
+    margin-left: 1.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa:hover > * {
+    cursor: pointer;
+    color: white;
+}
+
+.text {
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0.3vw;
+}
