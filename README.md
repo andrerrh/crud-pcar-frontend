@@ -1,4 +1,4 @@
-# Demo at [Heroku App](https://crud-express-react.herokuapp.com)
+# Demo at [Heroku App](https://crud-express-react.herokuapp.com) (May take a while for the front and backend servers to load)
 
 # Getting Started with Create React App
 
