@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crud-pcar-frontend/static/css/main.f9bad084.chunk.css",
-    "main.js": "/crud-pcar-frontend/static/js/main.b78b50e9.chunk.js",
-    "main.js.map": "/crud-pcar-frontend/static/js/main.b78b50e9.chunk.js.map",
+    "main.js": "/crud-pcar-frontend/static/js/main.73f1c6c5.chunk.js",
+    "main.js.map": "/crud-pcar-frontend/static/js/main.73f1c6c5.chunk.js.map",
     "runtime-main.js": "/crud-pcar-frontend/static/js/runtime-main.4a701a44.js",
     "runtime-main.js.map": "/crud-pcar-frontend/static/js/runtime-main.4a701a44.js.map",
     "static/css/2.dfa6656c.chunk.css": "/crud-pcar-frontend/static/css/2.dfa6656c.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.dfa6656c.chunk.css",
     "static/js/2.2dac04e5.chunk.js",
     "static/css/main.f9bad084.chunk.css",
-    "static/js/main.b78b50e9.chunk.js"
+    "static/js/main.73f1c6c5.chunk.js"
   ]
 }
